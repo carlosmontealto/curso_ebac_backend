@@ -1,0 +1,33 @@
+**** Hora de acordar ****
+
+Se despertador tocar ou se não tiver mais sono
+  Abrir os olhos
+  Se despertador tocou
+    Desligar o despertador
+  Levantar
+  Tomar remédios e vitaminas
+  Pegar roupas limpas no guarda roupa
+  Trocar de roupa
+  Colocar roupas sujas no cesto de roupa sujas
+  Ir ao banheiro
+  Escovar os dentes
+  Arrumar o cabelo
+  Se vontade de usar a privada
+    Usar a privada
+  Ir para a cozinha
+  Se tiver fome
+    Preparar café da manhã
+    Comer café da manhã
+  Ir para sala de estar
+  Se já for hora de ir trabalhar
+    Sair do apartamento
+    Trancar a porta
+    Pegar o carro
+    Ir ao trabalho
+    Trabalhar
+  Se não
+    Assistir jornal até dar hora de ir trabalhar
+Se não
+  Continuar dormindo
+
+

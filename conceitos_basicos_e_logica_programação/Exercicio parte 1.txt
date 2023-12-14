@@ -1,0 +1,2 @@
+A Criação e interação de objetos são os fundamentos da programação orientada a objetos, que busca promover a reutilização de código e facilitar o design modular.
+A programação procedural tem seu foco na execução de procedimentos sequenciais e é especialmente útil para resolver problemas simples e de natureza linear. Os paradigmas a serem escolhidos dependem tanto do contexto quanto dos requisitos específicos do projeto, porém nos dias atuais, o mais comum utilizado é a POO.
