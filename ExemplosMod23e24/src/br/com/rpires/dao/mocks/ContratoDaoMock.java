@@ -1,0 +1,21 @@
+package br.com.rpires.dao.mocks;
+
+import br.com.rpires.dao.IContratoDao;
+
+/**
+ * @author rodrigo.pires
+ */
+public class ContratoDaoMock implements IContratoDao {
+
+  @Override
+  public void salvar() {}
+
+  @Override
+  public void buscar(String codigo) {}
+
+  @Override
+  public void excluir(String codigo) {}
+
+  @Override
+  public void atualizar(String codigo) {}
+}
