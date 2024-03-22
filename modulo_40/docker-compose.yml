@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  db_spring_mod40:
+    image: postgres:latest
+    container_name: db_spring_mod40
+    ports:
+      - "15432:5432"
+    environment:
+      - POSTGRES_USER=docker
+      - POSTGRES_PASSWORD=docker
+      - POSTGRES_DB=spring_mod40
